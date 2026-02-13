@@ -34,7 +34,7 @@ def send_email(report_content):
     with smtplib.SMTP_SSL('smtp.gmail.com', 465) as server:
         server.login(email_user, email_pass)
         server.sendmail(email_user, email_user, body)
-
+ 
 if __name__ == "__main__":
     items = {
         "Anti-Wrestling": "https://bjjfanatics.com/products/the-anti-wrestling-equation-by-craig-jones",
