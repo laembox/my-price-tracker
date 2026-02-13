@@ -36,17 +36,17 @@ def send_email(report_content):
         server.sendmail(email_user, email_user, body)
 
 if __name__ == "__main__":
-    items = [
-        "https://bjjfanatics.com/products/the-anti-wrestling-equation-by-craig-jones",
-        "https://bjjfanatics.com/products/ageless-jiu-jitsu-winning-when-youre-older-or-less-athletic-top-game-gi-by-john-danaher",
+    items = {
+        "Anti-Wrestling": "https://bjjfanatics.com/products/the-anti-wrestling-equation-by-craig-jones",
+        "Ageless top game": "https://bjjfanatics.com/products/ageless-jiu-jitsu-winning-when-youre-older-or-less-athletic-top-game-gi-by-john-danaher",
         # Add your other 4 URLs here
-    ]
+    }
     
     full_report = "Here are your daily prices:\n\n"
     
-    for url in items:
+    for name, url in items:
         price = get_price(url)
-        full_report += f"Item: {url}\nPrice: {price}\n\n"
+        full_report += f"Item: {name} Price: {price}\n\n"
     
     # print(full_report)
     send_email(full_report)
