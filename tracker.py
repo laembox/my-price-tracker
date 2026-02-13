@@ -44,7 +44,7 @@ if __name__ == "__main__":
     
     full_report = "Here are your daily prices:\n\n"
     
-    for name, url in items:
+    for name, url in items.items():
         price = get_price(url)
         full_report += f"Item: {name} Price: {price}\n\n"
     
