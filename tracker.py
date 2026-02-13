@@ -38,7 +38,7 @@ def send_email(report_content):
 if __name__ == "__main__":
     items = [
         "https://bjjfanatics.com/products/the-anti-wrestling-equation-by-craig-jones",
-        https://bjjfanatics.com/products/ageless-jiu-jitsu-winning-when-youre-older-or-less-athletic-top-game-gi-by-john-danaher?_pos=1&_sid=375ebf4c4&_ss=r,
+        "https://bjjfanatics.com/products/ageless-jiu-jitsu-winning-when-youre-older-or-less-athletic-top-game-gi-by-john-danaher",
         # Add your other 4 URLs here
     ]
     
