@@ -46,7 +46,7 @@ if __name__ == "__main__":
     
     for name, url in items.items():
         price = get_price(url)
-        full_report += f"Item: {name} Price: {price}\n\n"
+        full_report += f"{name}: {price} Click:{url}\n\n"
     
     # print(full_report)
     send_email(full_report)
