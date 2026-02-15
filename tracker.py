@@ -38,11 +38,11 @@ def send_email(report_content):
 if __name__ == "__main__":
     items = {
         "Anti-Wrestling": "https://bjjfanatics.com/products/the-anti-wrestling-equation-by-craig-jones",
-        "Ageless top game": "https://bjjfanatics.com/products/ageless-jiu-jitsu-winning-when-youre-older-or-less-athletic-top-game-gi-by-john-danaher",
+        "Open Guard": "https://bjjfanatics.com/products/new-wave-jiu-jitsu-open-guard-vol-2-sweeps-and-reversals-by-john-danaher",
         "Just Stand Up": "https://bjjfanatics.com/products/just-stand-up-by-craig-jones",
         "Wrestle up":"https://bjjfanatics.com/products/nicky-ryans-wrestle-up-series-by-nicky-ryan",
         "Forging wrestle up":"https://bjjfanatics.com/products/forging-the-guard-wrestle-ups-by-giancarlo-bodoni",
-
+        "Butterfly Guard":"https://bjjfanatics.com/products/butterfly-guard-re-discovered-no-gi-butterfly-guard-encyclopedia-by-adam-wardzinski",
     }
     
     full_report = "Here are your daily prices:\n\n"
