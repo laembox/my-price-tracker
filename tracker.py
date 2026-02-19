@@ -44,6 +44,14 @@ if __name__ == "__main__":
         "Wrestle up":"https://bjjfanatics.com/products/nicky-ryans-wrestle-up-series-by-nicky-ryan",
         "Forging wrestle up":"https://bjjfanatics.com/products/forging-the-guard-wrestle-ups-by-giancarlo-bodoni",
         "Butterfly Guard":"https://bjjfanatics.com/products/butterfly-guard-re-discovered-no-gi-butterfly-guard-encyclopedia-by-adam-wardzinski",
+        "Pin Escapes Gordon Ryan": "https://bjjfanatics.com/collections/instructional-videos/products/the-pillars-of-defense-pin-escapes-defensive-to-offensive-cycles-by-gordon-ryan",
+        "Attacking Half Guard - Gordon Ryan": "https://bjjfanatics.com/collections/instructional-videos/products/systematically-attacking-the-guard-half-guard-passing-by-gordon-ryan",
+        "Open Guard Seated - Gordon Ryan": "https://bjjfanatics.com/collections/instructional-videos/products/systematically-attacking-from-open-guard-seated-position-by-gordon-ryan",
+        "Open Guard Supine - Gordon Ryan": "https://bjjfanatics.com/collections/instructional-videos/products/systematically-attacking-from-open-guard-supine-position-by-gordon-ryan",
+        "Leglock Escapes and Counter Locks - Gordon Ryan":"https://bjjfanatics.com/collections/instructional-videos/products/the-pillars-of-defense-leg-lock-escapes-and-counter-locks-by-gordon-ryan",
+        "Leglocks Escapes to guard passing - Gordon Ryan":"https://bjjfanatics.com/collections/instructional-videos/products/the-pillars-of-defense-leglocks-to-guard-passing-by-gordon-ryan",
+        "Leglocks Defense to back takes - Gordon Ryab" : "https://bjjfanatics.com/collections/instructional-videos/products/pillars-of-defense-leg-locks-to-back-takes-by-gordon-ryan"
+        
     }
     
     full_report = "Here are your daily prices:\n\n"
