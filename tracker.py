@@ -37,12 +37,13 @@ def send_email(report_content):
  
 if __name__ == "__main__":
     items = {
-        "Anti-Wrestling": "https://bjjfanatics.com/products/the-anti-wrestling-equation-by-craig-jones",
         "Open Guard": "https://bjjfanatics.com/products/new-wave-jiu-jitsu-open-guard-vol-2-sweeps-and-reversals-by-john-danaher",
         "Ageless top":"https://bjjfanatics.com/products/ajj-top",
-        "Wrestle up":"https://bjjfanatics.com/products/nicky-ryans-wrestle-up-series-by-nicky-ryan",
-        "Forging wrestle up":"https://bjjfanatics.com/products/forging-the-guard-wrestle-ups-by-giancarlo-bodoni",
+        "Pin Escapes Gi - Danaher":"https://bjjfanatics.com/products/pin-escapes-turtle-escapes-bjj-fundamentals-go-further-faster-by-john-danaher",
+        "Arm Drags - Danaher":"https://bjjfanatics.com/collections/instructional-videos/products/master-the-move-arm-drags-by-john-danaher",
+        "Leg Locks - Danaher":"https://bjjfanatics.com/collections/instructional-videos/products/leglocks-enter-the-system-by-john-danaher",
         "Butterfly Guard":"https://bjjfanatics.com/products/butterfly-guard-re-discovered-no-gi-butterfly-guard-encyclopedia-by-adam-wardzinski",
+        "K-Guard - Mikey Musumeci":"https://bjjfanatics.com/collections/instructional-videos/products/k-guard-and-matrix-system-attacking-the-legs-from-the-knees-part-1-by-mikey-musumeci",
         "Pin Escapes Gordon Ryan": "https://bjjfanatics.com/collections/instructional-videos/products/the-pillars-of-defense-pin-escapes-defensive-to-offensive-cycles-by-gordon-ryan",
         "Attacking Half Guard - Gordon Ryan": "https://bjjfanatics.com/collections/instructional-videos/products/systematically-attacking-the-guard-half-guard-passing-by-gordon-ryan",
         "Open Guard Seated - Gordon Ryan": "https://bjjfanatics.com/collections/instructional-videos/products/systematically-attacking-from-open-guard-seated-position-by-gordon-ryan",
