@@ -36,6 +36,7 @@ def send_email(report_content):
         server.sendmail(email_user, email_user, body)
  
 if __name__ == "__main__":
+    # The list
     items = {
         "Open Guard": "https://bjjfanatics.com/products/new-wave-jiu-jitsu-open-guard-vol-2-sweeps-and-reversals-by-john-danaher",
         "Ageless top":"https://bjjfanatics.com/products/ajj-top",
