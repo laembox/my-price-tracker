@@ -45,6 +45,7 @@ if __name__ == "__main__":
         "Leg Locks - Danaher":"https://bjjfanatics.com/collections/instructional-videos/products/leglocks-enter-the-system-by-john-danaher",
         "K-Guard - Mikey Musumeci":"https://bjjfanatics.com/collections/instructional-videos/products/k-guard-and-matrix-system-attacking-the-legs-from-the-knees-part-1-by-mikey-musumeci",
         "Head locks attach - Kaynan Duarte":"https://bjjfanatics.com/products/front-head-lock-control-submissions-and-transitions-by-kaynan-duarte",
+        "Head Chokes - Lachlan Giles ":"https://bjjfanatics.com/collections/instructional-videos/products/high-percentage-choke-no-gi-by-lachlan-giles",
         "Butterfly - Giancarlo":"https://bjjfanatics.com/collections/instructional-videos/products/efficiently-executing-from-butterfly-guard-by-giancarlo-bodoni",
         "Leg-lock defense - Giancarlo":"https://bjjfanatics.com/collections/instructional-videos/products/leg-lock-defense-survive-and-escape-by-giancarlo-bodoni",
         "Butterfly Gi - Adam":"https://bjjfanatics.com/collections/instructional-videos/products/butterfly-guard-rediscovered-3-0-by-adam-wardzinski",
