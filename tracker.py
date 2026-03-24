@@ -38,11 +38,14 @@ def send_email(report_content):
 if __name__ == "__main__":
     # The list
     items = {
-        "Open Guard": "https://bjjfanatics.com/products/new-wave-jiu-jitsu-open-guard-vol-2-sweeps-and-reversals-by-john-danaher",
+        "Open Guard Vol-2 - Danaher": "https://bjjfanatics.com/products/new-wave-jiu-jitsu-open-guard-vol-2-sweeps-and-reversals-by-john-danaher",
+        "Open Guard Vol-1 - Danaher":"https://bjjfanatics.com/collections/instructional-videos/products/new-wave-jiu-jitsu-open-guard-the-two-foundations-of-guard-play-by-john-danaher",
         "Ageless top":"https://bjjfanatics.com/products/ajj-top",
         "Anaconda attack - Danaher":"https://bjjfanatics.com/products/master-the-move-the-anaconda-strangle-by-john-danaher",
+        "Kimura - Danaher":"https://bjjfanatics.com/collections/instructional-videos/products/kimura-enter-the-system-by-john-danaher",
         "Arm Drags - Danaher":"https://bjjfanatics.com/collections/instructional-videos/products/master-the-move-arm-drags-by-john-danaher",
         "Leg Locks - Danaher":"https://bjjfanatics.com/collections/instructional-videos/products/leglocks-enter-the-system-by-john-danaher",
+        "Standing Scrimmage - Danaher":"https://bjjfanatics.com/collections/instructional-videos/products/standing2ground-positional-dominance-scrimmage-wrestling-by-john-danaher",
         "K-Guard - Mikey Musumeci":"https://bjjfanatics.com/collections/instructional-videos/products/k-guard-and-matrix-system-attacking-the-legs-from-the-knees-part-1-by-mikey-musumeci",
         "Head locks attach - Kaynan Duarte":"https://bjjfanatics.com/products/front-head-lock-control-submissions-and-transitions-by-kaynan-duarte",
         "Head Chokes - Lachlan Giles ":"https://bjjfanatics.com/collections/instructional-videos/products/high-percentage-choke-no-gi-by-lachlan-giles",
