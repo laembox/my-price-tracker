@@ -41,6 +41,8 @@ if __name__ == "__main__":
         "Open Guard Vol-2 - Danaher": "https://bjjfanatics.com/products/new-wave-jiu-jitsu-open-guard-vol-2-sweeps-and-reversals-by-john-danaher",
         "Open Guard Vol-1 - Danaher":"https://bjjfanatics.com/collections/instructional-videos/products/new-wave-jiu-jitsu-open-guard-the-two-foundations-of-guard-play-by-john-danaher",
         "Ageless top":"https://bjjfanatics.com/products/ajj-top",
+        "Headlocks - Danaher":"https://bjjfanatics.com/collections/instructional-videos/products/the-front-headlock-system-by-john-danaher",
+        "Unpassable Guard - Danaher":"https://bjjfanatics.com/collections/instructional-videos/products/the-fastest-way-to-develop-an-unpassable-guard-by-john-danaher",
         "Anaconda attack - Danaher":"https://bjjfanatics.com/products/master-the-move-the-anaconda-strangle-by-john-danaher",
         "Kimura - Danaher":"https://bjjfanatics.com/collections/instructional-videos/products/kimura-enter-the-system-by-john-danaher",
         "Arm Drags - Danaher":"https://bjjfanatics.com/collections/instructional-videos/products/master-the-move-arm-drags-by-john-danaher",
