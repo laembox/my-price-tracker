@@ -48,6 +48,7 @@ if __name__ == "__main__":
         "Standing Scrimmage - Danaher":"https://bjjfanatics.com/collections/instructional-videos/products/standing2ground-positional-dominance-scrimmage-wrestling-by-john-danaher",
         "Head locks attach - Kaynan Duarte":"https://bjjfanatics.com/products/front-head-lock-control-submissions-and-transitions-by-kaynan-duarte",
         "Darce destruction - Sean Yadimarco":"https://bjjfanatics.com/products/darce-destruction-by-sean-yadimarco",
+        "Darce - Travis Moore":"https://bjjfanatics.com/products/welcome-to-the-darce-side-by-travis-moore",
         "Head Chokes - Lachlan Giles ":"https://bjjfanatics.com/collections/instructional-videos/products/high-percentage-choke-no-gi-by-lachlan-giles",
         "Butterfly - Giancarlo":"https://bjjfanatics.com/collections/instructional-videos/products/efficiently-executing-from-butterfly-guard-by-giancarlo-bodoni",
         "Leg-lock defense - Giancarlo":"https://bjjfanatics.com/collections/instructional-videos/products/leg-lock-defense-survive-and-escape-by-giancarlo-bodoni",
