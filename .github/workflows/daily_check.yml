@@ -3,7 +3,7 @@ name: Daily Price Check
 on:
   schedule:
     # This runs at 12:00 UTC every day
-    - cron: '05 02 * * *'
+    - cron: '30 01 * * *'
   workflow_dispatch: # This allows you to run it manually for testing
 
 jobs:
