@@ -39,6 +39,7 @@ if __name__ == "__main__":
     # The list
     items = {
         "Pin Escapes - Danaher":"https://bjjfanatics.com/collections/instructional-videos/products/new-wave-jiu-jitsu-a-new-philosophy-of-positional-escapes-by-john-danaher",
+        "Submission Escapes - Danaher":"https://bjjfanatics.com/collections/instructional-videos/products/new-wave-jiu-jitsu-a-new-philosophy-of-submissions-escapes-by-john-danaher",
         "Open Guard Vol-2 - Danaher": "https://bjjfanatics.com/products/new-wave-jiu-jitsu-open-guard-vol-2-sweeps-and-reversals-by-john-danaher",
         "Open Guard Vol-1 - Danaher":"https://bjjfanatics.com/collections/instructional-videos/products/new-wave-jiu-jitsu-open-guard-the-two-foundations-of-guard-play-by-john-danaher",
         "Ageless top":"https://bjjfanatics.com/products/ajj-top",
@@ -47,12 +48,11 @@ if __name__ == "__main__":
         "Kimura - Danaher":"https://bjjfanatics.com/collections/instructional-videos/products/kimura-enter-the-system-by-john-danaher",
         "Standing Scrimmage - Danaher":"https://bjjfanatics.com/collections/instructional-videos/products/standing2ground-positional-dominance-scrimmage-wrestling-by-john-danaher",
         "Head locks attach - Kaynan Duarte":"https://bjjfanatics.com/products/front-head-lock-control-submissions-and-transitions-by-kaynan-duarte",
-        "Darce destruction - Sean Yadimarco":"https://bjjfanatics.com/products/darce-destruction-by-sean-yadimarco",
-        "Darce - Travis Moore":"https://bjjfanatics.com/products/welcome-to-the-darce-side-by-travis-moore",
         "Head Chokes - Lachlan Giles ":"https://bjjfanatics.com/collections/instructional-videos/products/high-percentage-choke-no-gi-by-lachlan-giles",
         "Butterfly - Giancarlo":"https://bjjfanatics.com/collections/instructional-videos/products/efficiently-executing-from-butterfly-guard-by-giancarlo-bodoni",
         "Leg-lock defense - Giancarlo":"https://bjjfanatics.com/collections/instructional-videos/products/leg-lock-defense-survive-and-escape-by-giancarlo-bodoni",
         "Butterfly no-gi - Adam":"https://bjjfanatics.com/collections/instructional-videos/products/butterfly-guard-re-discovered-no-gi-butterfly-guard-encyclopedia-by-adam-wardzinski",
+        "Back Escapes - Brian Click":"https://bjjfanatics.com/collections/instructional-videos/products/only-way-out-dynamic-back-escapes-by-brian-glick",
         "Head lock escapes":"https://bjjfanatics.com/collections/instructional-videos/products/the-foundation-of-defense-turtle-front-headlock-escapes-by-gordon-ryan",
         "Open Guard Seated - Gordon Ryan": "https://bjjfanatics.com/collections/instructional-videos/products/systematically-attacking-from-open-guard-seated-position-by-gordon-ryan",
         "Open Guard Supine - Gordon Ryan": "https://bjjfanatics.com/collections/instructional-videos/products/systematically-attacking-from-open-guard-supine-position-by-gordon-ryan",
