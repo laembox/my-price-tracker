@@ -44,18 +44,13 @@ if __name__ == "__main__":
         "Open Guard Vol-1 - Danaher":"https://bjjfanatics.com/collections/instructional-videos/products/new-wave-jiu-jitsu-open-guard-the-two-foundations-of-guard-play-by-john-danaher",
         "Ageless top":"https://bjjfanatics.com/products/ajj-top",
         "Headlocks - Danaher":"https://bjjfanatics.com/collections/instructional-videos/products/the-front-headlock-system-by-john-danaher",
-        "Anaconda attack - Danaher":"https://bjjfanatics.com/products/master-the-move-the-anaconda-strangle-by-john-danaher",
         "Kimura - Danaher":"https://bjjfanatics.com/collections/instructional-videos/products/kimura-enter-the-system-by-john-danaher",
         "Standing Scrimmage - Danaher":"https://bjjfanatics.com/collections/instructional-videos/products/standing2ground-positional-dominance-scrimmage-wrestling-by-john-danaher",
-        "Head locks attach - Kaynan Duarte":"https://bjjfanatics.com/products/front-head-lock-control-submissions-and-transitions-by-kaynan-duarte",
         "Head Chokes - Lachlan Giles ":"https://bjjfanatics.com/collections/instructional-videos/products/high-percentage-choke-no-gi-by-lachlan-giles",
         "Butterfly - Giancarlo":"https://bjjfanatics.com/collections/instructional-videos/products/efficiently-executing-from-butterfly-guard-by-giancarlo-bodoni",
-        "Leg-lock defense - Giancarlo":"https://bjjfanatics.com/collections/instructional-videos/products/leg-lock-defense-survive-and-escape-by-giancarlo-bodoni",
         "Butterfly no-gi - Adam":"https://bjjfanatics.com/collections/instructional-videos/products/butterfly-guard-re-discovered-no-gi-butterfly-guard-encyclopedia-by-adam-wardzinski",
         "Back Escapes - Brian Click":"https://bjjfanatics.com/collections/instructional-videos/products/only-way-out-dynamic-back-escapes-by-brian-glick",
         "Head lock escapes":"https://bjjfanatics.com/collections/instructional-videos/products/the-foundation-of-defense-turtle-front-headlock-escapes-by-gordon-ryan",
-        "Open Guard Seated - Gordon Ryan": "https://bjjfanatics.com/collections/instructional-videos/products/systematically-attacking-from-open-guard-seated-position-by-gordon-ryan",
-        "Open Guard Supine - Gordon Ryan": "https://bjjfanatics.com/collections/instructional-videos/products/systematically-attacking-from-open-guard-supine-position-by-gordon-ryan",
         "Leglocks Escapes to guard passing - Gordon Ryan":"https://bjjfanatics.com/collections/instructional-videos/products/the-pillars-of-defense-leglocks-to-guard-passing-by-gordon-ryan",
         "Leglocks Defense to back takes - Gordon Ryab" : "https://bjjfanatics.com/collections/instructional-videos/products/pillars-of-defense-leg-locks-to-back-takes-by-gordon-ryan"
     }
